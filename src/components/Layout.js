@@ -3,6 +3,7 @@ import {Helmet} from 'react-helmet';
 import _ from 'lodash';
 
 import {safePrefix} from '../utils';
+import favicon from '../../static/images/favicon.png';
 import Header from './Header';
 import Subscribe from './Subscribe';
 import Footer from './Footer';
@@ -18,6 +19,8 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i%7CPT+Serif:400,700" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
+                    <link rel='shortcut icon' type='image/png' href={favicon}/>
+
                     {(_.get(this.props, 'pageContext.frontmatter.template') === 'post') &&  
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
                     <link rel="canonical" href={_.get(this.props, 'pageContext.frontmatter.canonical_url')}/>
