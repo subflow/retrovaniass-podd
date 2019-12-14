@@ -1,11 +1,12 @@
 ---
-title: Get in Touch
-img_path: images/contact.jpg
+title: Kontakta oss
+img_path: "/images/retrologo3.png"
 menus:
   main:
     title: Contact
     weight: 6
 template: contact
----
+subtitle: ''
 
-Fill the form below to get in touch with me.
+---
+Fyll i formuläret för att kontakta oss med förslag, frågor eller synpunkter. 
