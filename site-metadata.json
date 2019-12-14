@@ -1,21 +1,21 @@
 {
-    "title": "Stackbit Ampersand Theme",
-    "layout_style": "grid",
-    "palette": "green",
-    "header": {
-        "title": "Ampersand",
-        "logo_img": "images/logo.png",
-        "has_nav": true
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ],
-        "has_social": true
-    }
+  "title": "Retrovaniass",
+  "layout_style": "list",
+  "palette": "red",
+  "header": {
+    "title": "Retrovaniass",
+    "logo_img": "/images/retrologo3.png",
+    "has_nav": true
+  },
+  "footer": {
+    "content": "&copy; All rights reserved.",
+    "links": [
+      {
+        "text": "Made with Stackbit",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ],
+    "has_social": true
+  }
 }
