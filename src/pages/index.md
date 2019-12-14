@@ -1,22 +1,22 @@
 ---
 title: Home
 sections:
-  - type: intro
-    template: intro
-    title: Intro
-    section_id: intro
-    component: Intro
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
+- type: intro
+  template: intro
+  title: Om Retrovaniass
+  section_id: intro
+  component: Intro
+  content: |-
+    RetrovaniAss är en podd med strålkastarljuset riktat mot de lite äldre spelen som kanske har hamnat i glömska och verkligen förtjänar en stund i rampljuset. Vi som rattar podden är Tomas, Johan, Maggan och Kenta. Här får du som lyssnare ta del av personliga och nostalgiska resonemang kring teman kopplade till spelet för dagen. Vi diskuterar kategorier som; grafik och ljud, spelkontrollen, utmaning och underhållning.
+
+    Instagram: [RetrovaniAss](http://instagram.com/retrovaniass/ "Retrovaniass")
+
+    Mail: [retrovaniass@gmail.com]().
+  actions: []
 menus:
   main:
     title: Home
     weight: 1
 template: home
+
 ---
