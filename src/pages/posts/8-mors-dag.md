@@ -5,7 +5,7 @@ date: '2019-05-28'
 thumb_img_path: images/heart.jpg
 content_img_path: images/heart.jpg
 excerpt: >-
-  I dagens avsnitt (som spelades in på mors dag) hyllar vi våra älskade mammor. Vad har de betytt för oss och vårt tv-spelande?
+  I dagens avsnitt hyllar vi våra älskade mammor. Vad har de betytt för oss och vårt tv-spelande?
 template: post
 ---
 
