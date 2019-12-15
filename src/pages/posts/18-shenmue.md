@@ -1,13 +1,10 @@
 ---
-title: Shenmue
+title: 18 - Shenmue
 date: '2019-12-13'
 thumb_img_path: images/shenmue.jpg
 content_img_path: images/shenmue.jpg
 excerpt: >-
   Nu har vi verkligen in rejäl nöt att knäcka. Vi ska ta oss an AM2:s stora projekt; Shenmue. Här är några av frågorna som dyker upp i programmet
-  Vad är en Shenmue för spel?
-  Är det ens ett spel?
-  Vad är sockerbitsgrafik?
 template: post
 ---
 

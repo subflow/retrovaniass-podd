@@ -1,10 +1,10 @@
 {
-  "title": "Retrovaniass",
+  "title": "RetrovaniAss",
   "layout_style": "list",
   "palette": "red",
   "header": {
-    "title": "Retrovaniass",
-    "logo_img": "/images/retrologo3.png",
+    "title": "RetrovaniAss",
+    "logo_img": "/images/retrologo-small.png",
     "has_nav": true
   },
   "footer": {

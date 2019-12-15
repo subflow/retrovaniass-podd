@@ -1,5 +1,5 @@
 ---
-title: BatmaniAss
+title: 2 - BatmaniAss
 subtitle:
 date: '2018-12-31'
 thumb_img_path: images/batman.png

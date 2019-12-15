@@ -44,7 +44,7 @@ export default class Contact extends React.Component {
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row">
                     <button type="submit" className="button">Skicka meddelande</button>
-                  </p>
+                  </p> 
                 </form>
               </div>
             </article>

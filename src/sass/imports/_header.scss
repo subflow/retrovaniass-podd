@@ -6,8 +6,8 @@
   background: #fff;
   border-top: 5px solid _palette(accent);
   border-bottom: 1px solid _palette(border);
-  padding-bottom: 1.33333em;
-  padding-top: 1.33333em;
+  padding-bottom: 1em; // 1.33333em;
+  padding-top: 1em; // 1.33333em;
 }
 
 .site-header-inside {
@@ -33,7 +33,7 @@
   }
 
   img {
-    max-height: 60px;
+    max-height: 100px;
   }
 }
 
@@ -57,6 +57,7 @@
 
 .menu {
   font-size: 14px;
+  font-weight: bold;
   line-height: 1.5;
   letter-spacing: 0.15em;
   list-style: none;
@@ -106,8 +107,8 @@
     position: absolute;
     right: 0;
     top: 0;
-    -webkit-transition: opacity .3s, visibility 0s .3s;
-    transition: opacity .3s, visibility 0s .3s;
+    -webkit-transition: opacity 0.3s, visibility 0s 0.3s;
+    transition: opacity 0.3s, visibility 0s 0.3s;
     visibility: hidden;
     z-index: -1;
   }
@@ -118,7 +119,7 @@
     -webkit-overflow-scrolling: touch;
     position: relative;
   }
-  
+
   #menu-close {
     display: block;
     position: absolute;
@@ -160,11 +161,10 @@
 
     .site-navigation {
       opacity: 1;
-      -webkit-transition: opacity .3s ease-in-out;
-      transition: opacity .3s ease-in-out;
+      -webkit-transition: opacity 0.3s ease-in-out;
+      transition: opacity 0.3s ease-in-out;
       visibility: visible;
       z-index: 9998;
     }
-
   }
 }

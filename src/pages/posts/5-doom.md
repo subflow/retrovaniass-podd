@@ -1,5 +1,5 @@
 ---
-title: DOOM
+title: 5 - DOOM
 subtitle:
 date: '2019-04-08'
 thumb_img_path: images/doom.jpg

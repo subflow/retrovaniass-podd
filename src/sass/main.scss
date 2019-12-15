@@ -1,12 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,600i,700|Roboto&display=swap');
 // Font.
 $font: (
   primary: (
-    'PT Sans',
+    'Open Sans',
     sans-serif
   ),
   secondary: (
-    'PT Serif',
-    serif
+    'Roboto',
+    sans-serif
   )
 );
 

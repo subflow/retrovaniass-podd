@@ -1,5 +1,5 @@
 ---
-title: Zelda
+title: 1 - Zelda
 date: '2018-11-22'
 thumb_img_path: images/zelda.jpg
 content_img_path: images/zelda.jpg

@@ -1,5 +1,5 @@
 ---
-title: Die Hard Triology
+title: 3 - Die Hard Triology
 subtitle: >-
 date: '2019-01-24'
 thumb_img_path: images/diehard.webp

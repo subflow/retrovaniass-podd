@@ -1,9 +1,9 @@
 ---
-title: Påsk(dr)ägget
+title: 6 - Påsk(dr)ägget
 subtitle:
 date: '2019-04-24'
-thumb_img_path: images/4.jpg
-content_img_path: images/4.jpg
+thumb_img_path: images/yoshiegg.png
+content_img_path: images/yoshiegg.png
 excerpt: >-
   Ett nytt avsnitt! Ett litet påskägg kan man väl säga. I dagens avsnitt gör en ny person entré i podden. Vem är karln? I detta avsnitt pratar vi mest strunt. Mycket strunt. Bara strunt. In och lyssna FFS!
 template: post
