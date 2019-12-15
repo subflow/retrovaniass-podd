@@ -1,6 +1,6 @@
 ---
 title: 10 - Retrospelsmässor
-subtitle:
+subtitle: ''
 date: '2019-06-25'
 thumb_img_path: images/pacman.jpg
 content_img_path: images/pacman.jpg
