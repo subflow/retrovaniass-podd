@@ -7,4 +7,6 @@ menus:
     weight: 6
 template: contact
 subtitle: ''
----Fyll i formuläret för att kontakta oss med förslag, frågor eller synpunkter.
+---
+
+Fyll i formuläret för att kontakta oss med förslag, frågor eller synpunkter.
