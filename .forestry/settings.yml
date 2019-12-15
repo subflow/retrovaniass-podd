@@ -44,11 +44,6 @@ sections:
   label: Subscribe
   templates:
   - subscribe
-- type: document
-  path: src/data/menus.json
-  label: Site Menus
-  templates:
-  - site_menus
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
