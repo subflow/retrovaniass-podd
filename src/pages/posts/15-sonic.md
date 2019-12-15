@@ -1,10 +1,10 @@
 ---
-title: 15 - Sonic Adventure
-subtitle:
+title: 15 - SonicAdventure
 date: '2019-11-13'
 thumb_img_path: images/sonic.jpg
 content_img_path: images/sonic.jpg
-excerpt: Vi analyserar Sonic Adventure. Ett av många flaggskepp till Dreamcastens release.  Är spelet så bra som recensenter och gamers hävdade? Håller det idag, 20 år senare?
+excerpt: >-
+  Vi analyserar Sonic Adventure. Ett av många flaggskepp till Dreamcastens release. Är spelet så bra som recensenter och gamers hävdade? Håller det idag, 20 år senare?
 template: post
 ---
 
