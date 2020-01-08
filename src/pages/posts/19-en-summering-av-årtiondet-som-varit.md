@@ -13,9 +13,9 @@ excerpt: Då var ett årtionde till ända och ett nytt tar vid. Vad passar bätt
 ---
 Då var ett årtionde till ända och ett nytt tar vid. Vad passar bättre än en ytterst subjektiv redogörelse för våra respektive besvikelser, bästa spel och bubblare? Ett mycket långt avsnitt. Väldigt långt avsnitt. Men så blir det när ett årtionde ska sammanfattas!
 
-För er som vill ha lite koll kommer här ungefärliga tidsangivelser för när vi pratar om de olika kategorierna:   
+För er som vill ha lite koll kommer här ungefärliga tidsangivelser för när vi pratar om de olika kategorierna:  
 06\.41 - 31.21 pratar vi om årtiondets spel som vi någon gång i framtiden vill spela.  
- 31.21 - 01.05.13 pratar vi om årtiondes besvikelser.   
+31\.21 - 01.05.13 pratar vi om årtiondes besvikelser.  
 1\.05.14 - 2.31.44 pratar vi om årtiondets bästa spel med tillhörande bubblare.
 
 SPOILER ALERT! Här kommer en lista på alla spel vi pratar om (med reservation för eventuelt missade spel).
@@ -44,3 +44,5 @@ Johan: The Legend Of Zelda: Breath Of The Wild, Super Mario Galaxy 2, Mario Kart
 Phew! Det var alla!
 
 God fortsättning på er!
+
+[https://soundcloud.com/retrovani-ass/retrovaniass-19-en-summering-av-artiondet-som-varit](https://soundcloud.com/retrovani-ass/retrovaniass-19-en-summering-av-artiondet-som-varit "https://soundcloud.com/retrovani-ass/retrovaniass-19-en-summering-av-artiondet-som-varit")
