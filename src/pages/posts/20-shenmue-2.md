@@ -1,7 +1,7 @@
 ---
 template: post
 title: 20 - Shenmue 2
-subtitle: å var det dags att ta sig an Shenmue 2. Ett för lyssnaren kanske lite rörigt
+subtitle: Då var det dags att ta sig an Shenmue 2. Ett för lyssnaren kanske lite rörigt
   program. Vi pratar lite allmänt om diverse saker i spelet.
 date: 2020-01-19T23:00:00Z
 thumb_img_path: "/images/1406202.jpg"
