@@ -19,4 +19,4 @@ Slutpladdrat. Gotta go fast!
 
 PS. Till nästa spelavsnitt ska vi ta oss an TRE spel igen. Denna gången Super Nintendos Donkey Kong-serie. Det blir något! DS.  
   
-[https://soundcloud.com/retrovani-ass/retrovaniass-22-sonic-the-hedgehog-1-3](https://soundcloud.com/retrovani-ass/retrovaniass-22-sonic-the-hedgehog-1-3 "https://soundcloud.com/retrovani-ass/retrovaniass-22-sonic-the-hedgehog-1-3")
+[https://soundcloud.com/retrovani-ass/retrovaniass-22-sonic-the-hedgehog-1-3](https://soundcloud.com/retrovani-ass/retrovaniass-22-sonic-the-hedgehog-1-3)
