@@ -9,12 +9,14 @@ excerpt: 'Segas flaggskepp Sonic The Hedgehog står på menyn. Men inte bara ett
   Vi tar oss an TRE spel.  '
 
 ---
-Segas flaggskepp Sonic The Hedgehog står på menyn. Men inte bara ett spel! Vi tar oss an TRE spel. 
+Segas flaggskepp Sonic The Hedgehog står på menyn. Men inte bara ett spel! Vi tar oss an TRE spel.
 
-Kan det vara så att vi ha hittat ett mästerverk i något av de tre spelen? 
+Kan det vara så att vi ha hittat ett mästerverk i något av de tre spelen?
 
 Kan en ursäkt vara på sin plats?
 
-Slutpladdrat. Gotta go fast! 
+Slutpladdrat. Gotta go fast!
 
-PS. Till nästa spelavsnitt ska vi ta oss an TRE spel igen. Denna gången Super Nintendos Donkey Kong-serie. Det blir något! DS.
+PS. Till nästa spelavsnitt ska vi ta oss an TRE spel igen. Denna gången Super Nintendos Donkey Kong-serie. Det blir något! DS.  
+  
+[retrovaniass-22-sonic-the-hedgehog-1-3]()
