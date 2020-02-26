@@ -19,4 +19,4 @@ Slutpladdrat. Gotta go fast!
 
 PS. Till nästa spelavsnitt ska vi ta oss an TRE spel igen. Denna gången Super Nintendos Donkey Kong-serie. Det blir något! DS.  
   
-[retrovaniass-22-sonic-the-hedgehog-1-3]()
+[retrovaniass-22-sonic-the-hedgehog-1-3](retrovaniass-22-sonic-the-hedgehog-1-3)
