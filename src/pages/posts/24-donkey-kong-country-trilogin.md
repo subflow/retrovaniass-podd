@@ -10,23 +10,23 @@ excerpt: 'Det har gått ett tag men nu är vi tillbaka! I detta avsnitt ska vi t
   Kong Quest   Donkey Kong Country 3 Dixie Kong''s Double Trouble'
 
 ---
-Det har gått ett tag men nu är vi tillbaka! I detta avsnitt ska vi ta oss an TRE (!) stycken spel: 
+Det har gått ett tag men nu är vi tillbaka! I detta avsnitt ska vi ta oss an TRE (!) stycken spel:
 
-Donkey Kong Country 
+Donkey Kong Country,
 
-Donkey Kong Country 2 Diddy's Kong Quest 
+Donkey Kong Country 2 Diddy's Kong Quest och
 
 Donkey Kong Country 3 Dixie Kong's Double Trouble
 
-Vilka minnen har vi från spelen? 
+Vilka minnen har vi från spelen?
 
 Hur uttalas egentligen antagonisten King K. Rool's namn?
 
-Vilken är den bästa musiken i trilogin? 
+Vilken är den bästa musiken i trilogin?
 
-Detta är några av de saker vi tar upp i programmet. 
+Detta är några av de saker vi tar upp i programmet.
 
-God lyssning! 
+God lyssning!
 
 PS. Vi vill gärna att ni hör av er till oss för att bestämma vilket spel vi ska spela till näst-nästa gång. Faxanadu, Gremlings 2, Castlevania 3 eller Bucky O'Hare.
 
