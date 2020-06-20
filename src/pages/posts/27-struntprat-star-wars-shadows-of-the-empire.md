@@ -10,14 +10,14 @@ excerpt: 'Vi är långsamma - vi vet. Men äntligen kommer avsnittet som skulle 
   Of The Empire. Vi har spelat både Nintendo 64-versionen och den till PC. '
 
 ---
-Vi är långsamma - vi vet. Men äntligen kommer avsnittet som skulle kommit i maj. Tillägnat May4th. Vi sätter våra löständer i Lucasarts verk Star Wars: Shadows Of The Empire. Vi har spelat både Nintendo 64-versionen och den till PC. 
+Vi är långsamma - vi vet. Men äntligen kommer avsnittet som skulle kommit i maj. Tillägnat May4th. Vi sätter våra löständer i Lucasarts verk Star Wars: Shadows Of The Empire. Vi har spelat både Nintendo 64-versionen och den till PC.
 
-Så följ med oss ut i en galax långt långt borta... 
+Så följ med oss ut i en galax långt långt borta...
 
-Följ oss på Instragram. 
+Följ oss på Instragram.
 
 Hör av er om ni vill önska ett spel.
 
-Ha det bra och ta hand om varandra!  
-  
-retrovaniass-27-strunprat-star-wars-shadows-of-the-empire
+Ha det bra och ta hand om varandra!
+
+https://soundcloud.com/retrovani-ass/retrovaniass-27-strunprat-star-wars-shadows-of-the-empire
