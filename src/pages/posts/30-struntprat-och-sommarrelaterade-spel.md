@@ -11,22 +11,22 @@ excerpt: Vi skulle egentligen bara prata skit men så råkade det bli ett avsnit
   KANSKE!
 
 ---
-Pausen är över! Vi är tillbaka och SJUKT laddade!  
-  
-Vi skulle egentligen bara prata skit men så råkade det bli ett avsnitt. Därför låter det minst sagt märkligt i början.  
-  
+Pausen är över! Vi är tillbaka och SJUKT laddade!
+
+Vi skulle egentligen bara prata skit men så råkade det bli ett avsnitt. Därför låter det minst sagt märkligt i början.
+
 Idag den första augusti är det graffitins dag och kanske hänger det ihop med spelet/spelen vi ska spela till nästa gång... KANSKE!
 
-\- Kan man verkligen köpa öl och sprit var som helst i Europa?!   
+\- Kan man verkligen köpa öl och sprit var som helst i Europa?!  
 \-  Är falukorv överskattat?  
 \-  Hur arg kan man bli på väderprat?  
-\-   Vad ska Kenta och Tomas få när Maggans Malmö svämmar över?  
-\-  Vilka är våra bästa sommarspel?  
-\-  Vad ska vi spela till nästa gång?    
-  
-Frågorna är många men svaren hoppas vi ska tillfredsställa er!   
-  
-Glöm inte att följa oss på Instagram, Twitter, Youtube och såklart där poddar finns. 
+\- Vad ska Kenta och Tomas få när Maggans Malmö svämmar över?  
+\-  Vilka är våra bästa sommarspel? Har ni lyssnare några tips? Hör av er!  
+\-  Vad ska vi spela till nästa gång?
+
+Frågorna är många men svaren hoppas vi ska tillfredsställa er!
+
+Glöm inte att följa oss på Instagram, Twitter, Youtube och såklart där poddar finns.
 
 HEJDÅ!
 
