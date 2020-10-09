@@ -5,7 +5,8 @@ subtitle: ''
 date: 2020-10-09T22:00:00Z
 thumb_img_path: "/images/capsule_616x353.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Det är dags för ett nytt avsnitt! Denna gång har gänget tagit sig an Marc
+  Eckō''s Getting Up: Contents Under Pressure. Ett spel i grafittins anda.'
 
 ---
 Det är dags för ett nytt avsnitt! Denna gång har gänget tagit sig an Marc Eckō's Getting Up: Contents Under Pressure. Ett spel i grafittins anda.   I vanlig ordning dyker ett gäng frågor upp längs med vägen.  
