@@ -11,11 +11,11 @@ excerpt: Välkomna till avsnitt 34!   Det har blivit dags. Det är oundvikligt. 
   kör!  In och följ oss på Instagram!
 
 ---
-Välkomna till avsnitt 34! 
+Välkomna till avsnitt 34!
 
-Det har blivit dags. Det är oundvikligt. Vi ska ta oss an kanske världens mest kända tv-spelstrilogi. Super Mario Bros 1, Super Mario Bros 2 (det riktiga) och Super Mario Bros 3. 
+Det har blivit dags. Det är oundvikligt. Vi ska ta oss an kanske världens mest kända tv-spelstrilogi. Super Mario Bros 1, Super Mario Bros 2 (det riktiga) och Super Mario Bros 3.
 
-Ni skippar vi skitsnacket och kör!
+Nu skippar vi skitsnacket och kör!
 
 In och följ oss på Instagram!
 
