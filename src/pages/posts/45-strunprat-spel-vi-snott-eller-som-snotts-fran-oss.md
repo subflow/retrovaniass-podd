@@ -1,6 +1,6 @@
 ---
 template: post
-title: 45 - Strunprat - Spel vi snott eller som snotts från oss
+title: 35 - Strunprat - Spel vi snott eller som snotts från oss
 subtitle: ''
 date: 2020-12-20T23:00:00Z
 thumb_img_path: "/images/nedladdning-1.jpeg"
