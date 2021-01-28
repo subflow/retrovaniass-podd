@@ -5,7 +5,9 @@ subtitle: ''
 date: 2021-01-22T23:00:00Z
 thumb_img_path: "/images/51kfop0h4rl-_ac_.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: Let's rock! Vi är tillbaka till det nya året! Duke Nukem 3d fyller 25 år
+  så det är en självklarhet att vi tar oss an detta, kanske lite provocerande, pang
+  pang-spel.
 
 ---
 Let's rock! Vi är tillbaka till det nya året! Duke Nukem 3d fyller 25 år så det är en självklarhet att vi tar oss an detta, kanske lite provocerande, pang pang-spel. 
