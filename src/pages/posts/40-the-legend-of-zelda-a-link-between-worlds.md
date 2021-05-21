@@ -1,6 +1,6 @@
 ---
 template: post
-title: 40 - The Legend Of Zelda - A Link Between Worlds
+title: 41 - The Legend Of Zelda - A Link Between Worlds
 subtitle: ''
 date: 2021-02-27T23:00:00Z
 thumb_img_path: "/images/a-link-between-worlds-art.jpg"
