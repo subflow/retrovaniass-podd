@@ -1,6 +1,6 @@
 ---
 template: post
-title: 40 - Struntprat - Nintendo och deras krimskrams
+title: 41 - Struntprat - Nintendo och deras krimskrams
 subtitle: ''
 date: 2021-05-04T22:00:00Z
 thumb_img_path: "/images/100-nintendo-switch-accessories-listicle-2019.jpeg"
