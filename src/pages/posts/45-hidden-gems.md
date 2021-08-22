@@ -1,6 +1,6 @@
 ---
 template: post
-title: 45 Hidden Gems
+title: 45 - Hidden Gems
 subtitle: ''
 date: 2021-08-21T22:00:00Z
 thumb_img_path: "/images/question_block_nsmb.png"
