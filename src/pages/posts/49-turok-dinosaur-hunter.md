@@ -1,6 +1,6 @@
 ---
 template: post
-title: 49 Turok Dinosaur Hunter
+title: 49 - Turok Dinosaur Hunter
 subtitle: ''
 date: 2021-12-15T23:00:00Z
 thumb_img_path: "/images/turok_dinosaur_hunter_-_wallpaper_4k.jpeg"
