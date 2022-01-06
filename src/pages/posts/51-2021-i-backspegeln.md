@@ -24,10 +24,10 @@ Vilket är årets köp?
 
 Årets långkörare?
 
-Årets besvikelse? 
+Årets besvikelse?
 
 Plus några till. In och lyssna om ni vill ta del av vårat spelår - 2021.
 
 Puss och kram!
 
-https://soundcloud.com/retrovani-ass/retrovaniass-2021-i-backspegeln?si=522f5bc36f7c4f1a973a32dcf3448b63&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[https://soundcloud.com/retrovani-ass/retrovaniass-2021-i-backspegeln?si=522f5bc36f7c4f1a973a32dcf3448b63&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing]()
