@@ -14,4 +14,4 @@ Det tog lite tid - vi vet. Men nu är avsnittet här! Vi har ju spelat Turok 1, 
 
 Peace!
 
-https://soundcloud.com/retrovani-ass/retrovaniass-53-turok-2-dinosaur-hunter?si=e3010d33d06f438d8eb72e8fde436b42&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/retrovani-ass/retrovaniass-53-turok-2-dinosaur-hunter
