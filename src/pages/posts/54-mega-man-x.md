@@ -11,8 +11,8 @@ excerpt: Time for rock. Time for Rock Man. Skämt åsido, vi ska ta oss an Mega 
   att prata om kring detta fantastiska spel. Häng med oss och njut!  X out.
 
 ---
-Time for rock. Time for Rock Man. Skämt åsido, vi ska ta oss an Mega Man X till Super Nintendo. Det finns en hel del att prata om märkte vi efter att matchuret börjar närma sig 90 minuter. Men så kan det vara när man har så förbannat mycket att prata om kring detta fantastiska spel. Häng med oss och njut!  
-  
+Time for rock. Time for Rock Man. Skämt åsido, vi ska ta oss an Mega Man X till Super Nintendo. Det finns en hel del att prata om märkte vi efter att matchuret börjar närma sig 90 minuter. Men så kan det vara när man har så förbannat mycket att prata om kring detta fantastiska spel. Häng med oss och njut!
+
 X out.
 
-https://soundcloud.com/retrovani-ass/retrovaniass-54-mega-man-x?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/retrovani-ass/retrovaniass-54-mega-man-x
