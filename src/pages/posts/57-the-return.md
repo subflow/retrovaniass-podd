@@ -14,6 +14,6 @@ excerpt: Ett halvår. Det var så länge vi tog en paus. Vi förklarar i podden.
 Ett halvår. Det var så länge vi tog en paus. Vi förklarar i podden. Vi ber om ursäkt i podden.  
 Men framför allt pratar vi om ganska mycket personliga saker. Vi kastar in lite tv-spel också, var inte oroliga.
 
-Och till nästa avsnitt LOVAR vi en jävla PANGtitel. Vi ska spela Goldeneye. Det vill ni inte missa!!!  
-  
+Och till nästa avsnitt LOVAR vi en jävla PANGtitel. Vi ska spela Goldeneye. Det vill ni inte missa!!!
+
 https://soundcloud.com/retrovani-ass/retrovaniass-the-return?si=856e43682d0b440b9dbd618b67651ff5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
