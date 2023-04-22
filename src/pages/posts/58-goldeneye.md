@@ -1,6 +1,6 @@
 ---
 template: post
-title: 58 - Golden eye
+title: 58 - Goldeneye
 subtitle: ''
 date: 2023-04-21T22:00:00Z
 thumb_img_path: "/images/nintendo64goldeneye_.jpg"
