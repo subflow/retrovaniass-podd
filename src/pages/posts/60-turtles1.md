@@ -1,6 +1,6 @@
 ---
 template: post
-title: 59 - Multiplayerspel
+title: 60 - Turtles 1
 subtitle: ''
 date: 2023-06-23T12:26:00Z
 thumb_img_path: "/images/artworks-U9qhCtB1wYXOqOPT-GodJkA-t500x500.jpg"
@@ -18,4 +18,4 @@ Vad tycker vi om Turtles till NES?
 
 COWAHBUNGAH!
   
-https://soundcloud.com/retrovani-ass/multiplayerspel
+https://soundcloud.com/retrovani-ass/retrovaniass-60-turtles-1
